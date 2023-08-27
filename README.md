@@ -17,7 +17,7 @@
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="20px" height="20px"></a>
 </p>
 
-<p align="center"><a href="http://www.mwidd.com/">Portfolio Link</a></p>
+<p align="center"><a href="https://mwid.dev/">mwid.dev</a></p>
 
 ---
 
